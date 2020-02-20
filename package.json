@@ -1,0 +1,12 @@
+{
+    "name": "com.ohms.pooling",
+    "displayName": "Pooling System",
+    "version": "1.0",
+    "unity": "2019.1",
+    "description": "Basic pooling system for Unity",
+    "keywords": ["ohms", "pool"],
+    "category": "utilities",
+    "dependencies": {
+    }
+}
+
