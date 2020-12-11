@@ -162,7 +162,7 @@ namespace OhmsLibraries.Pooling {
         }
 
         protected void CallOnDespawnEvent () {
-            OnPoolReturnRequest.Invoke (this);
+            OnPoolReturnRequest?.Invoke (this);
             OnDespawn?.Invoke (this);
         }
 
